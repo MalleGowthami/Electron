@@ -4008,7 +4008,7 @@ __metadata:
     send: "npm:^0.19.0"
     sinon: "npm:^9.0.1"
     uuid: "npm:^14.0.0"
-    winreg: "npm:1.2.4"
+    winreg: "npm:1.2.5"
     ws: "npm:^8.21.0"
     yargs: "npm:^16.0.3"
   languageName: unknown
@@ -10958,10 +10958,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"winreg@npm:1.2.4":
-  version: 1.2.4
-  resolution: "winreg@npm:1.2.4"
-  checksum: 10c0/25a687332e51a1928a61e0689f51a9cae9c2ff0788e984334ef6cc286b571125de186195040f746a1b74e8668590acd1a2b17521ece94b57d3c15f8afc8b67b2
+"winreg@npm:1.2.5":
+  version: 1.2.5
+  resolution: "winreg@npm:1.2.5"
+  checksum: 10c0/d6f9f18ef662826242468b59428ad802ad811c08e4afad4c81fab30bc7304ef4ff10369140e7c7420e4364987b1cb89c4043899f6d001559c0b67a8e61ce4a64
   languageName: node
   linkType: hard
 
